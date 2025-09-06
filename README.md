@@ -1,13 +1,13 @@
-# 👋 Interactive Hello Prashun Linux Kernel Module
+# 👋 Hello Prashun Linux Kernel Module
 
 Welcome to the **Hello Prashun** Linux kernel module!  
-This is a beginner-friendly, interactive kernel module project that prints messages to the kernel log when loaded and unloaded.
+This is a beginner-friendly, kernel module project that prints messages to the kernel log when loaded and unloaded.
 
 ---
 
 ## 🤔 What is this?
 
-- A simple Linux kernel module written in C.
+- A simple Linux kernel module written in C. 
 - When loaded: **prints "Hello, Prashun!"** to the kernel log.
 - When unloaded: **prints "Goodbye, Prashun!"** to the kernel log.
 - Lets you interact with the kernel via loading and unloading the module.
